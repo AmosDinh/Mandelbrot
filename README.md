@@ -62,7 +62,21 @@ r, g, b = (img/12)*255-250, (img/15)*255-250, (img/7)*255-250
 
 
 ## Some pictures 
+![Image 50](pictures/1639076643.308115.png)
+
 ![Image 60](pictures/1639076982.373591.png)
+![Image 1](pictures/img.png)
+![Image 1](pictures/img (1).png)
+![Image 2](pictures/img (2).png)
+![Image 3](pictures/img (3).png)
+![Image 4](pictures/img (4).png)
+![Image 5](pictures/img (5).png)
+![Image 6](pictures/img (6).png)
+![Image 7](pictures/img (7).png)
+![Image 8](pictures/img (8).png)
+
+
+
 ![Image 61](pictures/1639077039.859203.png)
 ![Image 62](pictures/1639077082.981824.png)
 ![Image 1](pictures/1639070595.461803.png)
@@ -89,8 +103,6 @@ r, g, b = (img/12)*255-250, (img/15)*255-250, (img/7)*255-250
 ![Image 38](pictures/1639076098.841196.png)
 ![Image 39](pictures/1639076126.709522.png)
 ![Image 40](pictures/1639076209.870843.png)
-![Image 41](pictures/1639076251.936124.png)
-![Image 42](pictures/1639076277.797244.png)
 ![Image 43](pictures/1639076312.235478.png)
 ![Image 44](pictures/1639076406.700503.png)
 ![Image 45](pictures/1639076438.176674.png)
@@ -98,7 +110,6 @@ r, g, b = (img/12)*255-250, (img/15)*255-250, (img/7)*255-250
 ![Image 47](pictures/1639076527.928269.png)
 ![Image 48](pictures/1639076582.48365.png)
 ![Image 49](pictures/1639076610.244758.png)
-![Image 50](pictures/1639076643.308115.png)
 ![Image 51](pictures/1639076734.350588.png)
 ![Image 52](pictures/1639076793.99751.png)
 ![Image 53](pictures/1639076834.79592.png)
@@ -106,5 +117,4 @@ r, g, b = (img/12)*255-250, (img/15)*255-250, (img/7)*255-250
 ![Image 55](pictures/1639076877.797803.png)
 ![Image 56](pictures/1639076887.141983.png)
 ![Image 57](pictures/1639076905.43112.png)
-![Image 58](pictures/1639076920.901638.png)
 ![Image 59](pictures/1639076954.054655.png)
