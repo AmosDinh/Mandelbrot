@@ -66,14 +66,14 @@ r, g, b = (img/12)*255-250, (img/15)*255-250, (img/7)*255-250
 
 ![Image 60](pictures/1639076982.373591.png)
 ![Image 1](pictures/img.png)
-![Image 1](pictures/img (1).png)
-![Image 2](pictures/img (2).png)
-![Image 3](pictures/img (3).png)
-![Image 4](pictures/img (4).png)
-![Image 5](pictures/img (5).png)
-![Image 6](pictures/img (6).png)
-![Image 7](pictures/img (7).png)
-![Image 8](pictures/img (8).png)
+![Image 2](pictures/img(2).png)
+![Image 3](pictures/img(3).png)
+![Image 4](pictures/img(4).png)
+![Image 5](pictures/img(5).png)
+![Image 6](pictures/img(6).png)
+![Image 1](pictures/img1.png)
+![Image 1](pictures/img0.png)
+![Image 8](pictures/img(8).png)
 
 
 
