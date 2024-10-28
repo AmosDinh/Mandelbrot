@@ -62,7 +62,9 @@ r, g, b = (img/12)*255-250, (img/15)*255-250, (img/7)*255-250
 
 
 ## Some pictures 
-
+![Image 60](pictures/1639076982.373591.png)
+![Image 61](pictures/1639077039.859203.png)
+![Image 62](pictures/1639077082.981824.png)
 ![Image 1](pictures/1639070595.461803.png)
 ![Image 2](pictures/1639070606.568746.png)
 ![Image 3](pictures/1639070607.741991.png)
@@ -122,6 +124,3 @@ r, g, b = (img/12)*255-250, (img/15)*255-250, (img/7)*255-250
 ![Image 57](pictures/1639076905.43112.png)
 ![Image 58](pictures/1639076920.901638.png)
 ![Image 59](pictures/1639076954.054655.png)
-![Image 60](pictures/1639076982.373591.png)
-![Image 61](pictures/1639077039.859203.png)
-![Image 62](pictures/1639077082.981824.png)
